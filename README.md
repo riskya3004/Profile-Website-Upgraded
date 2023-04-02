@@ -22,6 +22,9 @@
 ![Favourite Language Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/programming-languange.png)
 ###### The appearance of this website contains information about which programming languages are most liked and in demand. In addition, this programming language is a programming language that can be used in various projects, such as website creation projects, as well as mobile application development projects.
 
+#### Website display in the Portfolio section
+
+![Portfolio Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/portfolio.png)
 
 
 
