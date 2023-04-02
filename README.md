@@ -27,6 +27,12 @@
 ![Portfolio Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/portfolio.png)
 ###### The appearance of this website contains several portfolios in the form of projects that have been made and worked on to completion. Portfolio of projects that have been worked on, such as being a front-end developer, back-end developer, working on Artificial Intelligence projects, making ui/ui designs, designing application logos, and being a database administrator.
 
+#### Website display in the Quotes section
+
+![Quotes Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/quotes.png)
+###### The appearance of this website contains interesting quotes from famous wise men who are used as a principle of life to continue to grow and develop and to be able to explore the world more.
+
+
 
 
 
