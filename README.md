@@ -10,6 +10,7 @@
 #### Website display in the profile section
 
 ![Profile Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/profile.png)
+###### The appearance of this website contains a fairly complete profile starting from name, place/date of birth, gender, religion, occupation, to personal contacts to be able to communicate. In addition, there is also information about personality, expertise, and information about the higher education and university being pursued, such as the majors taken and the name of the university
 
 
 
