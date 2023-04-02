@@ -9,7 +9,7 @@
 
 #### Website display in the profile section
 
-![Profile Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/profil.png)
+![Profile Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/profile.png)
 
 
 
