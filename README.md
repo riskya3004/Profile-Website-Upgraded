@@ -4,7 +4,7 @@
 
 #### Website display in the profile section
 
-![Profile Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/sls3_webprog_pemanasan/public/assets/img/screenshot/greeting-navbar.png)
+![Profile Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/.../greeting-navbar.png)
 
 
 
