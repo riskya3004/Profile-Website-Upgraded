@@ -32,6 +32,12 @@
 ![Quotes Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/quotes.png)
 ###### The appearance of this website contains interesting quotes from famous wise men who are used as a principle of life to continue to grow and develop and to be able to explore the world more.
 
+#### Website display in the Educational Background section
+
+![Educational Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/educational.png)
+###### The appearance of this website contains educational experiences that have been obtained from childhood to the last graduation from high school. There is also an explanation of the name of the institution and the address of the educational institution that has been obtained
+
+
 
 
 
