@@ -4,7 +4,7 @@
 
 #### Website display in the profile section
 
-![Profile Section Display](screenshot/greeting-navbar.png)
+![Profile Section Display](public/assets/img/screenshot/greeting-navbar.png)
 
 
 
