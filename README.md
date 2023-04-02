@@ -5,7 +5,7 @@
 #### Website display in the profile section
 
 ![Profile Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/greeting-navbar.png)
-
+###### This is a website display that contains a welcome section in the form of photos and a brief description of the contents of the website and the display of the navigation bar to make it easier to use the website
 
 
 
