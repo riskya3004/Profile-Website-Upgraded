@@ -28,7 +28,7 @@
 ![Hobby-3 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-3.png)
 ![Hobby-4 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-4.png)
 ![Hobby-5 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-5.png)
-![Hobby-6 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-6.png)
+![Hobby-6 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-6-update.png)
 
 
 #### Website display in the Favourite Programming Languange section
