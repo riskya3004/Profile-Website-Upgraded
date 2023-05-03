@@ -19,8 +19,8 @@
 
 #### Notes : 
 #### Red -> Favourite
-#### Green -> Enjoy
-#### Blue -> Like
+#### Blue -> Enjoy
+#### Green -> Like
 
 ##### Result Selection Hobby
 ![Hobby-1 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-1.png)
