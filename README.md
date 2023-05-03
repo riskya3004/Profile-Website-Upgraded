@@ -17,10 +17,10 @@
 ![Hobby Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-update.png)
 ###### The appearance of this website contains explanations of hobbies and activities that are very popular and very fun to do, such as activities in playing various musical instruments, such as playing the piano, guitar, bass, drums, keyboards, and various other musical instruments and singing. Apart from that, there are also several other hobbies such as writing poetry, taking cool pictures and moments, traveling to various places both domestically and internationally, and watching various types of film genres.
 
-### Notes : 
-### Red -> Favourite
-### Green -> Enjoy
-### Blue -> Like
+#### Notes : 
+#### Red -> Favourite
+#### Green -> Enjoy
+#### Blue -> Like
 
 #### Website display in the Favourite Programming Languange section
 
