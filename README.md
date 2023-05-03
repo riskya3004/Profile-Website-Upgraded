@@ -1,3 +1,62 @@
+# sls3_webprog_Pemanasan
+
+## Profile website display
+
+#### Website display in the profile section
+
+![Greeting-Navbar Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/greeting-navbar.png)
+###### This is a website display that contains a welcome section in the form of photos and a brief description of the contents of the website and the display of the navigation bar to make it easier to use the website
+
+#### Website display in the profile section
+
+![Profile Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/profile.png)
+###### The appearance of this website contains a fairly complete profile starting from name, place/date of birth, gender, religion, occupation, to personal contacts to be able to communicate. In addition, there is also information about personality, expertise, and information about the higher education and university being pursued, such as the majors taken and the name of the university
+
+#### Website display in the Hobby section
+
+![Hobby Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby.png)
+###### The appearance of this website contains explanations of hobbies and activities that are very popular and very fun to do, such as activities in playing various musical instruments, such as playing the piano, guitar, bass, drums, keyboards, and various other musical instruments and singing. Apart from that, there are also several other hobbies such as writing poetry, taking cool pictures and moments, traveling to various places both domestically and internationally, and watching various types of film genres.
+
+#### Website display in the Favourite Programming Languange section
+
+![Favourite Language Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/programming-languange.png)
+###### The appearance of this website contains information about which programming languages are most liked and in demand. In addition, this programming language is a programming language that can be used in various projects, such as website creation projects, as well as mobile application development projects.
+
+#### Website display in the Portfolio section
+
+![Portfolio Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/portfolio.png)
+###### The appearance of this website contains several portfolios in the form of projects that have been made and worked on to completion. Portfolio of projects that have been worked on, such as being a front-end developer, back-end developer, working on Artificial Intelligence projects, making ui/ui designs, designing application logos, and being a database administrator.
+
+#### Website display in the Quotes section
+
+![Quotes Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/quotes.png)
+###### The appearance of this website contains interesting quotes from famous wise men who are used as a principle of life to continue to grow and develop and to be able to explore the world more.
+
+#### Website display in the Educational Background section
+
+![Educational Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/educational.png)
+###### The appearance of this website contains educational experiences that have been obtained from childhood to the last graduation from high school. There is also an explanation of the name of the institution and the address of the educational institution that has been obtained
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
@@ -64,3 +123,4 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
