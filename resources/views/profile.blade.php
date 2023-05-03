@@ -108,21 +108,68 @@
             </div>
           </div>
         </div>
-        <div class="row">
-          <div class="col-md-4">
-            <div class="service-box">
-              <div class="service-ico">
-                <span class="ico-circle"><i class="bi bi-music-note-list"></i></span>
-              </div>
-              <div class="service-content">
-                <h2 class="s-title">Playing Musical Instruments</h2>
-                <p class="s-description text-center">
-                    Playing a musical instrument is a fun activity where one can play his favorite musical instrument to produce a harmonious and melodious sound.
-                </p>
-              </div>
+        <div class="row d-flex flex-wrap"   ">
+            @foreach ( $listhobi as $detail )
+            <div class="col-md-4">
+                @if ($detail['tingkatanhobi'] == "favourite")
+                <div class="kelas-favourite">
+                    <a href="penjelasan/{{ $detail['idhobi'] }}" class="kelas-favourite">
+                        <div class="service-box">
+                            <div class="service-ico">
+                              <span class="ico-circle" style="background-color: rgba(255, 0, 0, 0.766)"><img style="width: 40px; height= 40px" src="{{ asset('assets/img/'. $detail['iconhobi']) }}" alt=""></span>
+                            </div>
+                            <div class="service-content">
+                              <h2 class="s-title">{{ $detail['namahobi'] }}</h2>
+                              <p class="s-description text-center">
+                                  {{ $detail['deskripsihobi-pendek'] }}
+                              </p>
+                            </div>
+                          </div>
+                    </a>
+                </div>
+
+
+                  @elseif ($detail['tingkatanhobi'] == "enjoy")
+                  <div class="kelas-enjoy">
+                        <a href="penjelasan/{{ $detail['idhobi'] }}" class="kelas-enjoy">
+                            <div class="service-box">
+                                <div class="service-ico">
+                                  <span class="ico-circle" style="background-color: cyan"><img style="width: 40px; height= 40px" src="{{ asset('assets/img/'. $detail['iconhobi']) }}" alt=""> </span>
+                                </div>
+                                <div class="service-content">
+                                  <h2 class="s-title">{{ $detail['namahobi'] }}</h2>
+                                  <p class="s-description text-center">
+                                      {{ $detail['deskripsihobi-pendek'] }}
+                                  </p>
+                                </div>
+                              </div>
+                        </a>
+                  </div>
+
+
+                  @elseif ($detail['tingkatanhobi'] == "like")
+                  <div class="kelas-like">
+                        <a href="penjelasan/{{ $detail['idhobi'] }}" class="kelas-like">
+                            <div class="service-box">
+                                <div class="service-ico">
+                                <span class="ico-circle" style="background-color: green "><img style="width: 40px; height= 40px" src="{{ asset('assets/img/'. $detail['iconhobi']) }}" alt=""></span>
+                                </div>
+                                <div class="service-content">
+                                <h2 class="s-title">{{ $detail['namahobi'] }}</h2>
+                                <p class="s-description text-center">
+                                    {{ $detail['deskripsihobi-pendek'] }}
+                                </p>
+                                </div>
+                            </div>
+                        </a>
+                  </div>
+
+                @endif
+
             </div>
-          </div>
-          <div class="col-md-4">
+            @endforeach
+
+          {{-- <div class="col-md-4">
             <div class="service-box">
               <div class="service-ico">
                 <span class="ico-circle"><i class="bi bi-mic"></i></span>
@@ -186,7 +233,7 @@
                 </p>
               </div>
             </div>
-          </div>
+          </div> --}}
         </div>
       </div>
     </section>
