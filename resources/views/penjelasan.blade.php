@@ -20,7 +20,7 @@
                         <h4 class="nama-barang">{{ $barang['namahobi'] }}</h4>
                         <h2 class="rarity-barang">{{ $barang['tingkatanhobi'] }}</h2>
                         <p class="deskripsi-panjang-barang">{{ $barang['deskripsihobi-panjang'] }}</p>
-                        <p class="harga-barang" style="font-size: 1.5rem">Price : {{ $barang['pricehobi'] }}</p>
+                        <p class="harga-barang" style="font-size: 1.5rem">Estimated Expenses For Hobby : {{ $barang['pricehobi'] }}</p>
                     </div>
                 </div>
 
