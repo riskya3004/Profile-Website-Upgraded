@@ -22,6 +22,15 @@
 #### Green -> Enjoy
 #### Blue -> Like
 
+##### Result Selection Hobby
+![Hobby-1 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-1.png)
+![Hobby-2 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-2.png)
+![Hobby-3 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-3.png)
+![Hobby-4 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-4.png)
+![Hobby-5 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-5.png)
+![Hobby-6 Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/hobby-6.png)
+
+
 #### Website display in the Favourite Programming Languange section
 
 ![Favourite Language Section Display](https://github.com/riskya3004/sls3_webprog_pemanasan/blob/master/public/assets/img/screenshot/programming-languange-update.png)
