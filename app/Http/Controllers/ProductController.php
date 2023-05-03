@@ -59,7 +59,7 @@ class ProductController extends Controller
             'deskripsihobi-pendek' => 'Watching movies is a fun activity where one can enjoy the story, acting, and visual effects in a film or film.',
             'tingkatanhobi' => 'like',
             'pricehobi' => '6.000.000',
-            'image-hobi' => 'traveller.jpg' ,
+            'image-hobi' => 'watch.jpg' ,
             'deskripsihobi-panjang' => '
             Travelling is the act of moving from one place to another for the purpose of exploration, discovery, relaxation, or adventure. It can involve traveling to nearby destinations or exploring faraway places around the world.Travelling can be done by various modes of transportation, such as planes, trains, automobiles, boats, or even walking. The experience of traveling can be both exciting and rewarding, offering opportunities to learn about new cultures, meet new people, and gain a broader perspective on the world. Travelling can also have a positive impact on personal growth and development, fostering independence, self-discovery, and cultural understanding. It can broaden ones perspective, challenge preconceived notions, and promote empathy and compassion for others. However, traveling also involves taking certain precautions and being aware of potential risks, such as illness, theft, or cultural misunderstandings. It is important to research and plan ahead to ensure a safe and enjoyable travel experience. Overall, traveling is a rewarding and enriching experience that allows us to explore the world and learn about ourselves and others. Whether for leisure or personal growth, traveling offers a unique opportunity to create lasting memories and gain new insights into the world around us.']
         ];
